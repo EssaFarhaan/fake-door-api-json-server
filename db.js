@@ -8,7 +8,8 @@ module.exports = {
   items,
   tags,
   brands,
-  itemTypes
+  itemTypes,
+  doors
 }
 
 
