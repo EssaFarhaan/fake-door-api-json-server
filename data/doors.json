@@ -1,5 +1,4 @@
-{
-  "doors": [
+  [
     {
       "id": "195",
       "productSelected": "HMDF",
@@ -444,4 +443,3 @@
       "LouverWidth": null
     }
   ]
-}
